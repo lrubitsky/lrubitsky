@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Javascript-based education technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,c++)](https://skillicons.dev)
